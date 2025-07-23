@@ -42,6 +42,12 @@ Start DOSBox:
 ```bash
 dosbox
 ```
+Inside DOSBox, mount your Linux folder as the C: drive:
+
+```bash
+MOUNT C: /home/user/MASAM
+C:
+```
 
 ### 🛠️ Step 3: Assemble and Run a Program
 
